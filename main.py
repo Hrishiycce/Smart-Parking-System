@@ -7,11 +7,11 @@ import pytesseract
 from flask import Flask, render_template
 
 # Directory paths
-dataset_dir = 'data/cars_data'
+dataset_dir = 'cars_data'
 timestamps_path = os.path.join(dataset_dir, 'timestamps.txt')
-yolov3_weights = 'yolo/lapi.weights'
-yolov3_cfg = 'yolo/darknet-yolov3.cfg'
-coco_names = 'yolo/classes.names'
+yolov3_weights = 'lapi.weights'
+yolov3_cfg = 'darknet-yolov3.cfg'
+coco_names = 'classes.names'
 
 # Load timestamps
 timestamps = pd.read_csv(timestamps_path, header=None, names=['filename', 'timestamp'])
