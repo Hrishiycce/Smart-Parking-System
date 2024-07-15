@@ -16,7 +16,6 @@ This project aims to manage vehicle movement and parking within a college campus
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/vehicle-movement-parking-management.git
-   cd vehicle-movement-parking-management
    ```
 
 2. **Install dependencies:**
