@@ -32,27 +32,7 @@ This project aims to manage vehicle movement and parking within a college campus
 
 1. **Load and display sample images:**
    ```python
-   python main.py --mode display_samples
-   ```
-
-2. **Display preprocessed sample images:**
-   ```python
-   python main.py --mode display_preprocessed_samples
-   ```
-
-3. **Plot vehicle entry/exit times:**
-   ```python
-   python main.py --mode plot_entry_exit_times
-   ```
-
-4. **Generate insights:**
-   ```python
-   python main.py --mode generate_insights
-   ```
-
-5. **Run Flask application:**
-   ```bash
-   python main.py --mode run_flask
+   python main.py 
    ```
 
 ## File Structure
