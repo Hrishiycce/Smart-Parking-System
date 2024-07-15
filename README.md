@@ -25,7 +25,7 @@ This project aims to manage vehicle movement and parking within a college campus
    ```
 
 3. **Download YOLOv3 files:**
-   - [YOLOv3 Weights](https://drive.google.com/file/d/your_drive_link)
+   - [YOLOv3 Weights](https://drive.google.com/file/d/1Gx-2tRsxWQ6nf6i1TcB5HytRk1-QERf_/view?usp=drive_link)
    - Place the `lapi.weights`, `darknet-yolov3.cfg`, and `classes.names` files in the project root directory.
 
 ## Usage
